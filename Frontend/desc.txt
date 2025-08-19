@@ -1,0 +1,7 @@
+1. installed and used daisyui for the components like footer, navbar.
+
+2. installed and used react slick slider 
+
+3. React-Router-Dom to visit multiple Routes.
+
+4. React-hook-form is for validation
