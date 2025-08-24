@@ -5,3 +5,7 @@
 3. React-Router-Dom to visit multiple Routes.
 
 4. React-hook-form is for validation
+
+5. Axios to get data form backend or the api route that is created to get the data.
+
+6. Cors is using to connect fornend and backend in the backend folder.

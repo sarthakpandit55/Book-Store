@@ -38,7 +38,7 @@ function Hero() {
           <input type="email" placeholder="mail@site.com" required />
         </label>
         <div className="validator-hint hidden">Enter valid email address</div>
-        <button className="btn btn-secondary mt-6">Secondary</button>
+        <button className="btn btn-secondary mt-6">Get Started</button>
       </div>
 
 
